@@ -18,16 +18,16 @@ What I care about is the unglamorous part: **robustness, failure handling, evalu
 
 | Project | What it is |
 | --- | --- |
-| **[rag-eval-observe](https://github.com/Padraigobrien08/rag-eval-observe)** · [live demo](https://pob-rag-chat.xyz/) | Production-ready platform for building, evaluating, and monitoring RAG systems — multiple retrieval strategies, offline eval (Hit@K, MRR, LLM-judge), real-time observability, Azure CI/CD. |
-| **[agentic-data-science-system](https://github.com/Padraigobrien08/agentic-data-science-system)** | End-to-end agentic system: LLM planning + MCP tool execution over deterministic analytics, with full traceability and evaluation. |
-| **[model-failure-lab](https://github.com/Padraigobrien08/model-failure-lab)** | Toolkit for systematically probing, classifying, and debugging failure modes in LLM and RAG systems — reasoning errors, hallucination, API-level behaviour. |
-| **[LLMfromScratch](https://github.com/Padraigobrien08/LLMfromScratch)** | Building and training a Transformer-based language model from scratch — the end-to-end mechanics, not a wrapper. |
+| **[rag-eval-observe](https://github.com/Padraigobrien08/rag-eval-observe)** · [live demo](https://pob-rag-chat.xyz/) | RAG evaluation and observability platform — four retrieval strategies, offline eval harness (Hit@K, MRR, LLM-judge), Prometheus/Grafana observability, eval runs as CI artifacts, Playwright + accessibility testing, deployed on Azure. |
+| **[model-failure-lab](https://github.com/Padraigobrien08/model-failure-lab)** | Toolkit for systematically probing, classifying, and debugging failure modes in LLM and RAG systems — runs prompt datasets, compares model versions, and harvests regressions into reusable test cases. |
+| **[agentic-data-science-system](https://github.com/Padraigobrien08/agentic-data-science-system)** | Chat-based SEC EDGAR financial analysis — a deterministic numerical pipeline under an LLM orchestration layer, so every answer traces back to inspectable, reproducible artifacts. |
+| **[StrideIQ](https://github.com/Padraigobrien08/StravaFitnessTool)** | Full-stack training-intelligence product for runners — deterministic analytics engines with an LLM coach layer and MCP integration, built on Strava data. |
 
 ### Stack
 
-**Languages** Python · TypeScript · SQL
-**AI / LLM** Agentic workflows · RAG · structured outputs · evaluation &amp; guardrails · multi-LLM (OpenAI, Gemini, Claude) · MCP
-**Systems** FastAPI · Next.js · PostgreSQL / pgvector · Qdrant · Docker · Airflow
+**Languages** Python · TypeScript · SQL<br>
+**AI / LLM** Agentic workflows · RAG · structured outputs · evaluation &amp; guardrails · multi-LLM (OpenAI, Gemini, Claude) · MCP<br>
+**Systems** FastAPI · Next.js · PostgreSQL / pgvector · Qdrant · Docker · Airflow<br>
 **ML / CV** PyTorch · TensorFlow · anomaly detection · industrial / X-ray imaging
 
 ---
