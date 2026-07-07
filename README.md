@@ -19,6 +19,7 @@ What I care about is the unglamorous part: **robustness, failure handling, evalu
 | Project | What it is |
 | --- | --- |
 | **[rag-eval-observe](https://github.com/Padraigobrien08/rag-eval-observe)** · [live demo](https://pob-rag-chat.xyz/) | RAG evaluation and observability platform — four retrieval strategies, offline eval harness (Hit@K, MRR, LLM-judge), Prometheus/Grafana observability, eval runs as CI artifacts, Playwright + accessibility testing, deployed on Azure. |
+| **[Stepwise](https://github.com/Padraigobrien08/Stepwise)** | Turns tutorial videos into a searchable, visually-grounded knowledge base — multimodal ingestion (transcript + frames), HyDE retrieval with cross-encoder re-ranking, gap detection for missing content, and a Zendesk sidebar app. Retrieval quality tracked with a committed eval harness. |
 | **[model-failure-lab](https://github.com/Padraigobrien08/model-failure-lab)** | Toolkit for systematically probing, classifying, and debugging failure modes in LLM and RAG systems — runs prompt datasets, compares model versions, and harvests regressions into reusable test cases. |
 | **[agentic-data-science-system](https://github.com/Padraigobrien08/agentic-data-science-system)** | Chat-based SEC EDGAR financial analysis — a deterministic numerical pipeline under an LLM orchestration layer, so every answer traces back to inspectable, reproducible artifacts. |
 | **[StrideIQ](https://github.com/Padraigobrien08/StravaFitnessTool)** | Full-stack training-intelligence product for runners — deterministic analytics engines with an LLM coach layer and MCP integration, built on Strava data. |
@@ -27,7 +28,7 @@ What I care about is the unglamorous part: **robustness, failure handling, evalu
 
 **Languages** Python · TypeScript · SQL<br>
 **AI / LLM** Agentic workflows · RAG · structured outputs · evaluation &amp; guardrails · multi-LLM (OpenAI, Gemini, Claude) · MCP<br>
-**Systems** FastAPI · Next.js · PostgreSQL / pgvector · Qdrant · Docker · Airflow<br>
+**Systems** FastAPI · Next.js · PostgreSQL / pgvector · Qdrant · ChromaDB · Docker · Airflow<br>
 **ML / CV** PyTorch · TensorFlow · anomaly detection · industrial / X-ray imaging
 
 ---
