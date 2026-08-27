@@ -16,10 +16,7 @@ Today I ship LLM, RAG and computer-vision systems at **yieldHUB**, embedded insi
 
 The part I keep coming back to is the layer most demos skip. Not just RAG and agent systems that reach production, but the **evaluation harnesses, regression gates, observability and failure analysis** that tell you whether they still work tomorrow — and say so honestly when they don't.
 
-> **The LLM plans and interprets. Deterministic code computes.**
-> Every number my systems report traces back to an artifact you can open.
-
-That's the thread through everything below: robustness, evaluation, and honest reporting of what a system can't do. Each project states its own limitations, and **every figure on this page links to the file that proves it** — same rule the repos hold themselves to.
+That's the thread through everything below. Each project states its own limitations, and **every figure on this page links to the file that proves it** — the same rule the repos hold themselves to.
 
 Next I'm taking that in the direction of research, with an **MSc in Artificial Intelligence at the University of Edinburgh**. [nanogpt-from-scratch](https://github.com/Padraigobrien08/nanogpt-from-scratch) is the run-up to it — it began as a tutorial reproduction, and [the original scripts are still committed](https://github.com/Padraigobrien08/nanogpt-from-scratch/tree/main/legacy) beside the rewrite that replaced them.
 
