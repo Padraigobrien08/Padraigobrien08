@@ -67,5 +67,5 @@ Multimodal RAG that turns tutorial videos into a searchable knowledge base — a
 
 ---
 
-<p align="center"><strong>Open to AI / ML Engineer roles — London &amp; remote.</strong><br>
-<em>Always happy to talk shop.</em></p>
+<p align="center"><strong>Open to AI / ML Engineer roles — relocating to London after my MSc, and open to remote.</strong><br>
+<em>Currently in Edinburgh. Always happy to talk shop.</em></p>
