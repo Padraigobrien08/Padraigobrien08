@@ -9,7 +9,7 @@
 
 Hi, I'm Padraig.
 
-I'm an AI engineer at **yieldHUB**, taking ambiguous product problems through to systems customers actually use — LLM, RAG and computer-vision features that ship inside our semiconductor analytics platform.
+I'm an AI engineer, currently doing an **MSc in Artificial Intelligence at the University of Edinburgh**. Before that I spent three years at **yieldHUB**, taking ambiguous product problems through to systems customers actually used — LLM, RAG and computer-vision features that shipped inside its semiconductor analytics platform.
 
 I started in data science, but found myself increasingly interested in what happened after the model worked: does it still hold up on real data, and would anyone notice if it stopped? I taught myself to build software properly so I could answer that, and I've done it in public, mistakes included.
 
@@ -21,8 +21,7 @@ I started in data science, but found myself increasingly interested in what happ
 
 ## Now
 
-- Building production AI at **yieldHUB**
-- Starting an **MSc in Artificial Intelligence at the University of Edinburgh**
+- Doing an **MSc in Artificial Intelligence at the University of Edinburgh**
 - Working mostly in Python / TypeScript — FastAPI, Next.js, Postgres/pgvector, PyTorch
 
 ## Try something
@@ -36,5 +35,5 @@ I built StrideIQ because I wanted to know why my training had gone backwards. It
 ---
 
 <p align="center"><strong>Looking for AI / ML engineering roles.</strong><br>
-Edinburgh during the MSc, London afterwards. Also open to the US and remote roles.<br>
+Based in Edinburgh for the MSc. Open to London, the US and elsewhere.<br>
 If you're building AI systems where reliability matters, I'd like to hear about it.</p>
